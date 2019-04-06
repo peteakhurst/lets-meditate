@@ -84,6 +84,10 @@
   bottom: 10%;
 }
 
+.play:hover {
+  cursor: pointer;
+}
+
 video {
   position: fixed;
   top: 0%;
